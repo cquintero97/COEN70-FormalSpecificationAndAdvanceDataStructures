@@ -1,1 +1,2 @@
-# COEN70-FormalSpecificationandAdvanceDataStructures
+# COEN70-FormalSpecificationAndAdvanceDataStructures
+Specification, representation, implementation, and validation of data structures; object-oriented design and programming in a strongly typed language with emphasis on reliable reusable software; formal specification of data structures (e.g., graphs, sets, bags, tables, environments, trees, expressions, graphics); informal use of specifications to guide implementation and validation of programs; guidelines and practice in designing for and with reuse.
